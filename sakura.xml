@@ -4,7 +4,7 @@
         <remote name="github"
                 fetch="https://github.com" />
 
-        <remote name="lineage"
+        <remote name="ronin787"
                 fetch="https://github.com/ronin787" />
 
         <!-- Sync trees -->
