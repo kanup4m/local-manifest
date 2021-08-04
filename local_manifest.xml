@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
           
-        <remote name="ronin787"
-                fetch="https://github.com/ronin787" />
+        <remote name="RONIN808"
+                fetch="https://github.com/RONIN808" />
 
         <!-- Sync trees -->
-        <project path="device/asus/sdm660-common" name="ronin787/device_asus_sdm660-common" remote="github" revision="eleven" />  
-        <project path="device/asus/X00TD" name="ronin787/device_asus_X00TD" remote="github" revision="11" />
-        <project path="vendor/asus" name="ronin787/vendor_asus_sdm660" remote="github" revision="eleven" />
-        <project path="kernel/asus/sdm660" name="ronin787/kernel_asus_sdm660" remote="github" revision="master" />
+        <project path="device/asus/X00T" name="RONIN808/device_asus_X00T" remote="github" revision="10t" />
+        <project path="vendor/asus" name="RONIN808/vendor_asus" remote="github" revision="10" />
+        <project path="kernel/asus/sdm660" name="RONIN808/kernel_asus_sdm660-1" remote="github" revision="master" />
 
 </manifest>
