@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+        <remote  name="harshhaareddy"
+
+          fetch="https://github.com/harshhaareddy" />
+
+    #HALS
+
+    
+
+    <project path="hardware/qcom-caf/msm8998/display" name="android_hardware_qcom_display" remote="harshhaareddy" revision="4.4" clone-depth="1" />
+
+    <project path="hardware/qcom-caf/msm8998/media" name="android_hardware_qcom_media" remote="harshhaareddy" revision="4.4" clone-depth="1" />
+
+    <project path="hardware/qcom-caf/msm8998/audio" name="hardware_qcom-caf_audio_msm8998" remote="harshhaareddy" revision="11" clone-depth="1" />
+
+    
+
+</manifest>
+
