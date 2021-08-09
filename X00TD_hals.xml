@@ -8,7 +8,11 @@
 
     #HALS
 
-    
+    <remove-project name="android_hardware_qcom_audio" />
+
+    <remove-project name="android_hardware_qcom_display" />
+
+    <remove-project name="android_hardware_qcom_media" />
 
     <project path="hardware/qcom-caf/msm8998/display" name="android_hardware_qcom_display" remote="harshhaareddy" revision="4.4" clone-depth="1" />
 
