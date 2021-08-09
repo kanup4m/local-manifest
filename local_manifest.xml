@@ -7,6 +7,6 @@
   <!-- Sync trees -->
         <project path="device/asus/X00TD" name="harshhaareddy/device_asus_X00TD" remote="harshhaareddy" revision="descendant" />
         <project path="vendor/asus" name="harshhaareddy/vendor_asus_X00TD" remote="harshhaareddy" revision="11" />
-        <project path="kernel/asus/sdm660" name="harshhaareddy/kernel_asus_sdm660-1" remote="harshhaareddy" revision="master" />
+        <project path="kernel/asus/sdm660" name="harshhaareddy/kernel_asus_sdm660" remote="harshhaareddy" revision="master" />
 
 </manifest>
