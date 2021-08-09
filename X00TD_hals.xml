@@ -8,7 +8,7 @@
 
     #HALS
 
-    <remove-project name="hardware_qcom-caf_audio_msm8998" />
+    <remove-project name="android_hardware_qcom_audio" />
 
     <remove-project name="android_hardware_qcom_display" />
 
