@@ -5,8 +5,8 @@
           fetch="https://github.com/harshhaareddy" />
 
   <!-- Sync trees -->
-        <project path="device/asus/X00T" name="android_device_asus_X00T_4.4" remote="harshhaareddy" revision="11" clone-depth="1" />
-        <project path="vendor/asus" name="android_vendor_asus_X00T_4.4" remote="harshhaareddy" revision="11" clone-depth="1" />
+        <project path="device/asus/X00TD" name="device_asus_X00TD" remote="harshhaareddy" revision="descendant" clone-depth="1" />
+        <project path="vendor/asus" name="vendor_asus_X00TD" remote="harshhaareddy" revision="11" clone-depth="1" />
         <project path="kernel/asus/sdm660" name="kernel_asus_sdm660" remote="harshhaareddy" revision="master" clone-depth="1" />
 
 </manifest>
