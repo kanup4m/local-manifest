@@ -12,8 +12,7 @@
         <project path="kernel/asus/sdm660" name="kernel_asus_sdm660-2" remote="harshhaareddy" revision="perf" clone-depth="1" />
         <project path="device/asus/sdm660-common" name="device_asus_sdm660-common-1" remote="harshhaareddy" revision="CAF-11" clone-depth="1" />
           
-        <remove-project path="device/qcom/common" /> 
-        <remove-project path="vendor/qcom/common" />
+        <remove-project name="device_qcom_common" />
         <project name="android_device_qcom_common" path="device/qcom/common" remote="project404" revision="rippa" clone-depth="1" />
         <project name="proprietary_vendor_qcom_common" path="vendor/qcom/common" remote="project404" revision="rippa" clone-depth="1" />  
 
